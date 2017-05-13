@@ -4,9 +4,9 @@ This version was developed to be undetectable (Ghost) by any developed system is
 
 **[PT]** Essa versão foi desenvolvida para ser indetectável (Fantasma) por qualquer sistema desenvolvido é uma versão privada (Paga). Nesse repositório há uma demonstração de como ele funciona e sua wiki contendo todas suas funções dentro do jogo. Ela apenas tem as seguintes linguagens: Inglês, Português, Russo e Espanhol.
 
-It's working perfectly, with no bugs or bugs, if it will be fixed as soon as it is reported here in github.
+It's working perfectly, without any errors, if it will be fixed as soon as it is reported here in github.
 
-**[PT]** Está funcionando perfeitamente, sem erros ou bugs, caso haja será arrumado assim que ele for reportado aqui no github.
+**[PT]** Está funcionando perfeitamente, sem nenhum erro, caso haja será arrumado assim que ele for reportado aqui no github.
 
 ### Features:
 
