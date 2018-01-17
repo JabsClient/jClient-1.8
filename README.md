@@ -39,4 +39,4 @@ The placeholder `{@playerID}` is part of the version code, it is used to know if
 
 ### Copyright
 
-JabsClient © 2017
+JabsClient © 2018
