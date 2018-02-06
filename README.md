@@ -14,9 +14,13 @@ It's working perfectly, without any errors, if it will be fixed as soon as it is
  * Show game data
  * Show player details
  * Account change in game
- * Minimap
+ * Character customization in game
+   * Change skin and capes.
+ * Custom Keystrokes
+ * Advanced Gammabright
+ * Advanced Minimaps and waypoints
  * Macros and keybinds integrated in version
- * Optifine 1.8 HD U H6
+ * Optifine 1.8.9 HD U I3
  * You can use **Skript** to configure
 
 ### Here is a legal code to start! :page_with_curl:
@@ -26,7 +30,7 @@ on join:
 	wait 3 ticks
 	if player is default:
 		if text from "https://api.risemc.com.br/p/jclient/" is not "{@playerID}":
-			play "block_note_pling" to player
+		 	play "block_note_pling" to player
 			message "&fUse &b&l/link &fto add your in-game account to your site's account"
 			stop
 ```
